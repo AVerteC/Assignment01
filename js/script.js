@@ -80,11 +80,7 @@
     // console.log(typeof "Nathan");
     // console.log(typeof 5);
     // console.log(typeof true);
-    // let object = {
-    //     weekday:  "Monday",
-    //     dayOfMonth: 18
-    // };
-    // console.log(typeof object);
+    // console.log(typeof window);
     // console.log(typeof unassignedVariable);
 
 // STEP 11
