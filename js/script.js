@@ -16,8 +16,8 @@
 // console.log("mathResult = " + mathResult);
 
 // let shoeSize = 6;
-// let shoeFits = (shoeSize > 5) && (shoeSize < 7) && (shoeSize !== null); // complex expression
-// console.log( "shoeFits = "+ shoeFits); // complex/variable expression
+// let shoeFits = (shoeSize > 5) && (shoeSize < 7) && (shoeSize !== null); // complex/variable expression
+// console.log( "shoeFits = "+ shoeFits);
 
 // STEP 4
 // let strFirstName;
@@ -44,10 +44,10 @@
     // // create variable
     // let variable;
     // // add number to variable
-    // result = result + 5;
+    // variable = variable + 5;
     // // add string to variable
-    // result = result + "dogs";
-    // console.log("result = " + result);
+    // variable = variable + "dogs";
+    // console.log("variable = " + variable);
 
     // // or
     // // create variable
@@ -72,7 +72,9 @@
 
 // STEP 9
     // let nullValue = null;
+    // console.log(nullValue);
     // let undefinedValue;
+    // console.log(undefinedValue);
 
 // STEP 10
     // console.log(typeof "Nathan");
