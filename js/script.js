@@ -66,7 +66,7 @@
 
 // STEP 8
     // // The given string literal is not valid.
-    // // I would fix the string literal by adding an escape character '\' before the ' character in I'm
+    // // I would fix the string literal by adding a '\' before the ' character in I'm to make an escape sequence to put a single quote mark for I'm
     // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."'
     // console.log(someString)
 
