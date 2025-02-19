@@ -32,13 +32,13 @@
 // STEP 5
 // using the three variables strFirstname, numZipCode, boolMayWeContactYou
 
-// let strFirstName;
+// var strFirstName;
 // strFirstName = "Natalie";
 
 // let strFirstName, numZipCode, boolMayWeContactYou;
 // strFirstName = "Daniel", numZipCode = 95060, boolMayWeContactYou = false;
 
-// let strFirstName = Natalie;
+// const numZipCode = 95060;
 
 // STEP 6
     // // create variable
