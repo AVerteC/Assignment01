@@ -42,18 +42,19 @@
 
 // STEP 6
     // // create variable
-    // let variable;
+    // let x;
     // // add number to variable
-    // variable = variable + 5;
+    // x = x + 5;
     // // add string to variable
-    // variable = variable + "dogs";
-    // console.log("variable = " + variable);
+    // x = x + "dogs";
+    // console.log("x = " + x);
 
     // // or
     // // create variable
-    // let variable;
+    // let x;
     // // add number to string and display result in console
-    // console.log(5 + "dogs");
+    // x = 5 + "dogs";
+    // console.log("x = " + x);
 
 // STEP 7
     // let a;
